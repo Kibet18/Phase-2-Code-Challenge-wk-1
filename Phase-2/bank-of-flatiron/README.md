@@ -28,7 +28,7 @@ HTML
 CSS
 Github
 Javascript
-React
+React.js
 
 ## Support and contact details
 github.com/Kibet18
